@@ -8,6 +8,10 @@ icon: book-blank
 
 Nova OS works with a very _functionality centered app ecosystem_, where apps _will be open source and user editable_. However, apps get to use many permissions that are normally flagged. Apps have the ability to directly manage files, control its appearance, manipulate its own source code etc. Nova OS Apps works as an injected sandbox, where the loaded code from the memory runs directly on an isolated WebView to prevent the system from conflicting with any of the other apps.
 
+{% hint style="danger" %}
+Future NovaOS versions may introduce '_permissions_'. As planned, permissions would mean that your apps would _'not function correctly'_ without the permission of the user for the function you triggered. Consider adding conditional dynamics (checking if the function returns an undefined value.) to your app when using NovaOS features so that your app continues to be relevant.
+{% endhint %}
+
 ### Nova OS creators
 
 Nova OS Creators produces the Nova Store, where people can publish their applications for free and for public use. These Applications will be hosted by the Nova Store and these applications can be installed on Nova OS.
@@ -38,7 +42,7 @@ In order to manage Nova files, memory or access default Nova Navigator functions
 ```
 
 {% hint style="info" %}
-Meanwhile there are other ways to access nova navigator functions, Nova.js is simple, efficient and powerful and can keep up with the newest NovaOS changes.
+We do not recommend using Nova.js, as it will have changes soon.
 {% endhint %}
 
 ### Usage Limits
