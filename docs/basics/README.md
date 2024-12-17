@@ -27,6 +27,8 @@ There's some constraints you have to work along with to make great Nova OS appli
 * The users will be able to view and manipulate the source code in one way or the other.
 * The App store monitors the app for suspicious activity unless specified before installation, if found, the store might remove your app from its database.
 
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td>Timing your application to gain more control.</td><td><a href="timing.md">timing.md</a></td><td></td></tr><tr><td>Making your app useful to the user by changing along their choices.</td><td><a href="user-choices/">user-choices</a></td><td></td></tr><tr><td>Let the app manage parts of itself.</td><td><a href="managing-self/">managing-self</a></td><td></td></tr><tr><td>Letting your app interact with the NovaOS filesystem</td><td><a href="file-system/">file-system</a></td><td></td></tr></tbody></table>
+
 ### Nova.js
 
 In order to manage Nova files, memory or access default Nova Navigator functions, you can include the Nova.js library. If you are in NovaOS2, you can do this by adding the following code to your app source code.
