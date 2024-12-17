@@ -9,6 +9,7 @@
 ## How to
 
 * [NovaOS How To](how-to/novaos-how-to/README.md)
+  * [Setting a custom wallpaper](how-to/novaos-how-to/setting-a-custom-wallpaper.md)
   * [Changing default openers](how-to/novaos-how-to/changing-default-openers.md)
   * [Using default apps](how-to/novaos-how-to/using-default-apps/README.md)
     * [Nova Files App](how-to/novaos-how-to/using-default-apps/nova-files-app.md)
