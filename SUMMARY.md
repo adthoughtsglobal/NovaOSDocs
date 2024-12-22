@@ -36,3 +36,9 @@
 * [Networking](docs/networking/README.md)
   * [Rotur In NovaOS](docs/networking/rotur-in-novaos.md)
 * [Features](docs/features.md)
+
+## References
+
+* [Methods](references/methods/README.md)
+  * [Database management](references/methods/database-management.md)
+  * [File management](references/methods/file-management.md)

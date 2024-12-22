@@ -1,3 +1,7 @@
+---
+icon: heart
+---
+
 # Support NovaOS
 
 Support NovaOS and a ton of its free applications on our Patreon,

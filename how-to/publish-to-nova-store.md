@@ -1,3 +1,7 @@
+---
+icon: rectangle-history-circle-plus
+---
+
 # Publish to Nova Store
 
 Making apps in nova is possible using the files app, text app and the studio app. But, how do i publish these apps i made so that it would be useful for others too?

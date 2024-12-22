@@ -1,2 +1,6 @@
+---
+icon: ruler-horizontal
+---
+
 # Standards
 

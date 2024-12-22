@@ -1,3 +1,7 @@
+---
+icon: wifi
+---
+
 # Networking
 
 NovaOS supports Rotur.js (under **Designation / username: nva**). It is a standard for Web OS networking ([Learn More](https://github.com/RoturTW/)).
