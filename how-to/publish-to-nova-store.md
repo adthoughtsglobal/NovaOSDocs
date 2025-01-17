@@ -11,3 +11,8 @@ Well, Nova Store is a highly moderated platform that's installed as default in N
 ## How to add my app in Nova store?
 
 You must make your app 'for nova' and should be 'a single file' to run as a nova app. The app should be hosted static. You can send its link in #projects channel in our discord server.
+
+### Hosting in the Nova Store repo
+
+Applications (projects) that are made as part of the NovaOS Core programme, will get a choice to be hosted under the Nova Store repo.
+

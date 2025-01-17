@@ -17,6 +17,10 @@ layout:
 
 NovaOS is a web-based operating system that has an App Ecosystem powered by a community of Creators like you.
 
+This documentation is written so that you can discover how NovaOS works, or how a system like this would work.
+
+Remember, NovaOS is source-available, you can directly look into its HTML, JS, CSS source code - but not republish it, learn what is an infringement to the terms, [here](https://adthoughtsglobal.github.io/termsofuse.html).
+
 <table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>How can I start using NovaOS?</h2></td><td>Learn how to transform your device to a powerful desktop system.</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h2>How does NovaOS work behind the scenes?</h2></td><td>Learn how NovaOS deals with everything without worrying you.</td><td><a href="docs/basics/">basics</a></td></tr><tr><td><h2>What are the top features NovaOS got?</h2></td><td>Learn what you can find in NovaOS that would boost your everyday.</td><td><a href="docs/features.md">features.md</a></td></tr><tr><td><h2>How to make an app in NovaOS?        </h2></td><td>Its just a single HTML file!</td><td><a href="docs/basics/">basics</a></td></tr></tbody></table>
 
 
