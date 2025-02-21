@@ -40,6 +40,7 @@
 
 ## References
 
+* [The NovaOS Check list](references/the-novaos-check-list.md)
 * [Methods](references/methods/README.md)
   * [Database management](references/methods/database-management.md)
   * [File management](references/methods/file-management.md)
