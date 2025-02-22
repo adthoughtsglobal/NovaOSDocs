@@ -14,6 +14,7 @@
   * [Using default apps](how-to/novaos-how-to/using-default-apps/README.md)
     * [Nova Files App](how-to/novaos-how-to/using-default-apps/nova-files-app.md)
   * [Data recovery](how-to/novaos-how-to/data-recovery.md)
+  * [Using the Tasks Dock](how-to/novaos-how-to/using-the-tasks-dock.md)
 * [Publish to Nova Store](how-to/publish-to-nova-store.md)
 * [Feedback and suggest](how-to/feedback-and-suggest.md)
 * [Support NovaOS](how-to/support-novaos.md)

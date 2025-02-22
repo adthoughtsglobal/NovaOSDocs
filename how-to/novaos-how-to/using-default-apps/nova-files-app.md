@@ -1,6 +1,6 @@
 # Nova Files App
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>files app in NovaOS 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>files app in NovaOS 2</p></figcaption></figure>
 
 The NovaOS Files app is a default app stored in the `Apps/` directory. Files app allows you to quickly and efficiently manage, view, import and create files in and to the local NovaOS filesystem.&#x20;
 
@@ -52,7 +52,7 @@ To create a file, click the 'New File' button in the Top navigation. Enter a fil
 <summary>Finding a file</summary>
 
 1. Open the sidebar with this button (_chevron forward_):\
-   ![](<../../../.gitbook/assets/image (1).png>)
+   ![](<../../../.gitbook/assets/image (1) (1).png>)
 2. Click the desired folder name where the file is located
 3. If the file is inside a subfolder, double click the subfolder in the file list on the right.
 4. To select the desired file, click on it.
@@ -65,7 +65,7 @@ To create a file, click the 'New File' button in the Top navigation. Enter a fil
 
 To select the desired file, click on it.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 After clicking the file, the Top Navigation panel would get replaced with a ton of file management buttons.
 
