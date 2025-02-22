@@ -16,6 +16,7 @@
   * [Data recovery](how-to/novaos-how-to/data-recovery.md)
   * [Using the Tasks Dock](how-to/novaos-how-to/using-the-tasks-dock.md)
 * [Publish to Nova Store](how-to/publish-to-nova-store.md)
+* [Protips](how-to/protips.md)
 * [Feedback and suggest](how-to/feedback-and-suggest.md)
 * [Support NovaOS](how-to/support-novaos.md)
 
