@@ -28,7 +28,7 @@ Apps ignoring OLP operations may cause broken workflows. If you are a developer,
 
 Scroll down the side bar navigation and click on **defaults**.
 
-<img src="../../.gitbook/assets/image (6).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
 {% endstep %}
 
 {% step %}

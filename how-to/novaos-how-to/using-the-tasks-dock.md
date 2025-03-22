@@ -4,7 +4,7 @@ icon: rectangle-history
 
 # Using the Tasks Dock
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The Tasks Dock in NovaOS 2.05</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>The Tasks Dock in NovaOS 2.05</p></figcaption></figure>
 
 NovaOS tasks dock is a wonderful tool if you need to multitask in NovaOS. Multitasking requires constant window management actions including minimizing, restoring, and reordering windows on the depth scale.
 
