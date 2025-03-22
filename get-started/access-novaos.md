@@ -10,6 +10,8 @@ This is the website link for NovaOS, for bigger screened devices.
 Join our discord for help, [here](https://discord.gg/NhC8N2Mxta).
 {% endhint %}
 
+To use NovaOS in a mobile or a vertical screened device with a dynamic viewport, consider installing the OS as an app.
+
 ## Installing NovaOS as an App in Chrome
 
 Chrome, or its alternatives like Edge, Opera have the same methods.

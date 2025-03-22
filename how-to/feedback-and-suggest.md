@@ -8,15 +8,13 @@ I would love to hear about any suggestions or ideas you have got.&#x20;
 
 Join our discord to submit your idea and let it be created!
 
-Plus,&#x20;
+* Get the most NovaOS news,&#x20;
+* Update status,&#x20;
+* Exclusive polls and&#x20;
+* Ideas from fellow users!
 
-* get the most NovaOS news,&#x20;
-* update status,&#x20;
-* exclusive polls and&#x20;
-* ideas from fellow users!
-
-## [Join the discord](https://discord.gg/atkqbwEQU8), see you there.
+## [Open discord](https://discord.gg/atkqbwEQU8)
 
 {% hint style="info" %}
-NovaOS discord is a friendly community of people who use NovaOS and me!
+NovaOS Discord is a friendly community of people who use NovaOS.
 {% endhint %}

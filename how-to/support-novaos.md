@@ -4,27 +4,21 @@ icon: heart
 
 # Support NovaOS
 
-Support NovaOS and a ton of its free applications on our Patreon,
+If NovaOS helped you achieve something, please consider supporting this free service and a ton of its free applications by joining a membership at our Patreon,
 
-{% hint style="info" %}
+{% hint style="success" %}
 Memberships start from just $1 / m. Opt out whenever you wish.
 
 On the lowest tier, get exclusive perks including&#x20;
 
-* Nova OS Priority support
-* Nova OS **Discord server supporter role**
-* Access to many upcoming apps
+* Nova OS Priority support.
+* Nova OS **Discord server supporter role.**
+* Access to many **upcoming apps** and features.
+* Cancel anytime.
 
-## [Join a membership](https://www.patreon.com/adthoughtsglobal/membership)
+## [Join Now](https://www.patreon.com/adthoughtsglobal/membership)
 {% endhint %}
 
-or if you like it just for now,&#x20;
-
-{% hint style="info" %}
-One-time donations start from just $3.&#x20;
-
-No hassle of repeated payments, pay one time for our work.
-
-## Do a [one-time donation](https://www.patreon.com/c/adthoughtsglobal/shop)
+{% hint style="warning" %}
+If you are using NovaOS for an industrial or productive setting, that would require reliable support and help on NovaOS - keep any of our memberships to avail priority support for your projects.
 {% endhint %}
-
