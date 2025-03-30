@@ -23,6 +23,7 @@
 ## docs
 
 * [Basics](docs/basics/README.md)
+  * [Introduction](docs/basics/introduction.md)
   * [Timing](docs/basics/timing.md)
   * [File system](docs/basics/file-system/README.md)
     * [Overview on files](docs/basics/file-system/overview-on-files.md)
