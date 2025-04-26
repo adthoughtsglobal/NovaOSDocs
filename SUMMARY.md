@@ -47,9 +47,9 @@
 * [Methods](references/methods/README.md)
   * [Database management](references/methods/database-management.md)
   * [File management](references/methods/file-management.md)
+* [NTX Actions](references/ntx-actions.md)
 * [Projects](references/projects.md)
 
 ## Epic
 
 * [Achievements](epic/achievements.md)
-* [Statistics](epic/statistics.md)

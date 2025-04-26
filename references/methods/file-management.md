@@ -24,3 +24,4 @@ Returns an object with file name, metadata, ID and type.
 
 Returns an object with file name, metadata, ID, type, path and content.
 
+## createFile()
