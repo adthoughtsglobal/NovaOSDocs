@@ -1,10 +1,10 @@
 ---
-icon: face-sunglasses
+icon: crown
 ---
 
 # Protips
 
-* Too many windows open and want to close it all? Open the Nova menu and click on 'close all windows'!
+* Too many windows open and you want to close them all? Open the Nova menu and click on 'close all windows'!
 * Want to keep Dock apps updated without moving them after updates? Simply select a file to make a shortcut in the Dock/ folder! App IDs won't change after updates.
 * Want to import multiple files? You can select multiple files and import them together!
 * Want to take a short nap? Easily go to the Nova menu and click on 'sleep mode' to enter a dialog where you can start timers and display idle texts.

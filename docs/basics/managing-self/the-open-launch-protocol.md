@@ -50,22 +50,18 @@ It is highly recommended to have the response id checked, because it may also ge
 
 ## Using OLP as a trigger
 
-To interpret OLP requests and return data to requesters, apps need to have this following method in their source file:
+To interpret OLP requests and return data to requesters, apps need to have the following method in their source file:
 
 <pre class="language-javascript"><code class="lang-javascript">async function greenflag() {
-<strong>  if (myWindow.params &#x26;&#x26; myWindow.params.appid == myWindow.appID) {
-</strong><strong>    // intepret the data
-</strong><strong>    sessionReqID = myWindow.params.winuid;
+<strong>  if (myWindow.params) {
+</strong><strong>    // interpret the data
+</strong><strong>    sessionReqID = myWindow.params.trid;
 </strong><strong>    console.log(myWindow.params.data);
 </strong>  }
 }
 </code></pre>
 
-Basically, what we are doing here is to check for window params, if any, to find out that if theres a request in the launch of the process, and the request of for the ID of the current application.
-
-Which means that we simply check every time if there's an OLP requests, simply put, params in the `myWindow` object matches our current app ID.
-
-We also need to store the requesting window UID to 'respond' or to return any data.
+We also require apps to save the sessionReqID (`myWindow.params.trid`) as it is requird to return any Data. You can ignore it if the app handler doesnt return anything.&#x20;
 
 ## Returning OLP requests
 

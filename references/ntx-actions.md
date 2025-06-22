@@ -1,3 +1,7 @@
+---
+icon: arrow-up-arrow-down
+---
+
 # NTX Actions
 
 ## fileGet

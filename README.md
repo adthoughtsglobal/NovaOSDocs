@@ -4,7 +4,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -15,32 +15,18 @@ layout:
 
 # Welcome to NovaOS👋
 
-NovaOS is a web-based operating system that has an App Ecosystem powered by a community of Creators like you.
+NovaOS is a web-based operating system containing an App Ecosystem powered by a community of Creators like you.
 
-This documentation is written so that you can discover how NovaOS works, or how a system like this would work.
+This documentation is written so that you can discover how NovaOS works or how a system like this would work, specifically, making applications and using advanced customization features.
 
-Remember, NovaOS is source-available, you can directly look into its HTML, JS, CSS source code - but not republish it, learn what is an infringement to the terms, [here](https://adthoughtsglobal.github.io/termsofuse.html).
+{% hint style="success" %}
+Remember, NovaOS is source-available, you can directly look into its HTML, JS, CSS source code - but not republish it, learn what constitutes an infringement of the terms, [here](https://adthoughtsglobal.github.io/termsofuse.html).
+{% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>How can I start using NovaOS?</h2></td><td>Learn how to transform your device to a powerful desktop system.</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><h2>How does NovaOS work behind the scenes?</h2></td><td>Learn how NovaOS deals with everything without worrying you.</td><td><a href="docs/basics/">basics</a></td></tr><tr><td><h2>What are the top features NovaOS got?</h2></td><td>Learn what you can find in NovaOS that would boost your everyday.</td><td><a href="docs/features.md">features.md</a></td></tr><tr><td><h2>How to make an app in NovaOS?        </h2></td><td>Its just a single HTML file!</td><td><a href="docs/basics/">basics</a></td></tr></tbody></table>
+You can finally make your dream web apps that utilize an increased set of features right in NovaOS, with an exciting space for developers.
 
+NovaOS supports all modern devices. It has a fully self-contained ecosystem of features and a unique user experience.&#x20;
 
+[Try NovaOS now.](get-started/access-novaos.md)
 
-## So what? 🤔
-
-Well, you can finally make your dream webapps 🔥 that utilize the perfect set of features right in NovaOS, with an exciting space for developers, NovaOS, is the best way to build! ✨
-
-## How!?
-
-NovaOS supports Mobiles📱, laptops💻, PCs🖥️, Fridge screens❄️, watches⌚, sidebars, web views and standalone PWA sessions✨. It has a fully self-created ecosystem of features and a very unique user experience.&#x20;
-
-NovaOS works offline, and with offline, I mean, it works on its full.&#x20;
-
-Think of it this way, NovaOS is a Web application, which is fully client side, that lets you make full web applications that can interact with a virtual filesystem, on the go, even offline.&#x20;
-
-With a wide array of stunning features, NovaOS can serve as a default regular OS alternative. NovaOS can handle webapps in a breeze, SVG icons, settings and a wide array of default apps to ease your work.
-
-Try it,&#x20;
-
-{% content-ref url="get-started/access-novaos.md" %}
-[access-novaos.md](get-started/access-novaos.md)
-{% endcontent-ref %}
+This documentation was formed over time, including answers to the most important questions you may be curious about. Starting from its applications to the basics of usage and behind-the-scenes design. Feel free to contribute to it by asking questions on our Discord server.

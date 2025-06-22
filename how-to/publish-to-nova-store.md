@@ -1,18 +1,16 @@
 ---
-icon: rectangle-history-circle-plus
+icon: upload
 ---
 
 # Publish to Nova Store
 
-Making apps in nova is possible using the files app, text app and the studio app. But, how do i publish these apps i made so that it would be useful for others too?
+Making apps in NovaOS is possible using the text app and the studio app. But, how do I publish these apps I made so that they would be useful for others too?
 
-Well, Nova Store is a highly moderated platform that's installed as default in Nova OS, appearing on the apps dock from version 1.2 and above. This app showcases applications with install buttons for all of them, crediting all its developers.
+Nova Store is a highly moderated platform that gets installed as the default in Nova OS, appearing on the apps dock from version 1.2 and above. This app showcases applications with install buttons for all of them, crediting all their developers.
 
-## How to add my app in Nova store?
+## How to add my app to the NovaOS store?
 
-You must make your app 'for nova' and should be 'a single file' to run as a nova app. The app should be hosted static. You can send its link in #projects channel in our discord server.
+You must make your app for NovaOS, and it should be 'a single HTML file' to run as a NovaOS app. The app should be hosted statically. You can send its link in the #projects channel in our Discord server.
 
-### Hosting in the Nova Store repo
-
-Applications (projects) that are made as part of the NovaOS Core programme, will get a choice to be hosted under the Nova Store repo.
+If you have the app hosted this way, you can also directly share this link so that people can install it directly through the store application.
 
