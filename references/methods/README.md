@@ -1,6 +1,0 @@
----
-icon: sign-post
----
-
-# Methods
-

@@ -26,27 +26,23 @@
   * [Error standards](docs/standards/error-standards.md)
 * [Networking](docs/networking/README.md)
   * [Rotur In NovaOS](docs/networking/rotur-in-novaos.md)
-* [Features](docs/features.md)
 
-## How to
+## ❓ How to
 
-* [NovaOS How To](how-to/novaos-how-to/README.md)
-  * [Changing default openers](how-to/novaos-how-to/changing-default-openers.md)
-  * [Data recovery](how-to/novaos-how-to/data-recovery.md)
-  * [Using the Tasks Dock](how-to/novaos-how-to/using-the-tasks-dock.md)
+* [Pro](how-to/pro/README.md)
+  * [Changing default openers](how-to/pro/changing-default-openers.md)
+  * [Data recovery](how-to/pro/data-recovery.md)
+  * [Using the Tasks Dock](how-to/pro/using-the-tasks-dock.md)
 * [Publish to Nova Store](how-to/publish-to-nova-store.md)
-* [Support NovaOS](how-to/support-novaos.md)
 * [Protips](how-to/protips.md)
-* [Feedback and suggest](how-to/feedback-and-suggest.md)
 
-## References
+## 🗃️ References
 
-* [Methods](references/methods/README.md)
-  * [Database management](references/methods/database-management.md)
-  * [File management](references/methods/file-management.md)
 * [NTX Actions](references/ntx-actions.md)
 * [Projects](references/projects.md)
 
-## Epic
+## 🧩 more
 
-* [Achievements](epic/achievements.md)
+* [Feedback and suggest](more/feedback-and-suggest.md)
+* [❤️ Support NovaOS](more/support-novaos.md)
+* [Features](more/features.md)
