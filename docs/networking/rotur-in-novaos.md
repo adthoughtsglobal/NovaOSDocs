@@ -1,12 +1,5 @@
 # Rotur In NovaOS
 
-### NovaOS Functions for Rotur
-
-| Function      | Description                                                                   |
-| ------------- | ----------------------------------------------------------------------------- |
-| `logoutofrtr` | Log out of a Rotur account if you are signed in. This also disconnects rotur. |
-| `setuprotur`  | Connect to Rotur and initialize it.                                           |
-
 ### Available methods
 
 {% hint style="info" %}

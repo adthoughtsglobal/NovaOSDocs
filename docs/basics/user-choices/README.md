@@ -9,6 +9,6 @@ See a list of default NovaOS settings keys, [here](settings-keys.md).
 {% endhint %}
 
 ```javascript
-await window.parent.getSetting("SETTNGS_CODE_HERE") // returns settings value stored in system.
+await ntx.settings.get("SETTNGS_CODE_HERE") // returns settings value stored in system.
 ```
 

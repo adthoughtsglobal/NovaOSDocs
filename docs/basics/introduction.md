@@ -36,21 +36,8 @@ App permissions are also managed by the NTX, which provides numerous API functio
 The user can turn off any of these namespaces for your application; this will cause ntx actions to return _undefined_. Some namespaces, if enabled, can let the application prevent further limiting of permissions (by effectively 'escaping the cage'). These namespaces include `fileSet`, `settings`, `system`, and `unsandboxed`.
 {% endhint %}
 
-## Ideals NovaOS applications
-
-There are some constraints you have to work with to make great Nova OS applications.&#x20;
-
-* The users can disable and enable permissions at any given time.
-* The users will be able to view and manipulate the source code.
-
-## Submitting Apps
-
-When you [submit an app to Nova Store](introduction.md#submitting-apps), we modify its source code for Nova OS to enhance compatibility and screen for malware, ensuring increased user safety.
-
 ## Future
 
 {% hint style="info" %}
 The upcoming NovaOS Panels in Nova Nav would have a different syntax from the applications, which would allow them to function best in a widget-like fashion.
 {% endhint %}
-
-If you're using NovaOS and enjoying it, consider supporting us by joining our Patreon membership. Starting at just $1 a month, you'll gain instant access to exciting new applications and help us continue developing NovaOS. It also gives you a special Discord server role!

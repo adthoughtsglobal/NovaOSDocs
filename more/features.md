@@ -1,8 +1,7 @@
 ---
 description: >-
-  Copying features can be done by anyone. For Nova, each decision on the
-  features gotta be proven the best. This is why nova is able to make the most
-  fascinating new inventions.
+  Anyone can copy features. For NovaOS, each decision on the features gotta be
+  proven the best.
 icon: star-christmas
 ---
 

@@ -22,7 +22,6 @@
     * [The Open Launch Protocol](docs/basics/managing-self/the-open-launch-protocol.md)
     * [The EventBusWorker](docs/basics/managing-self/the-eventbusworker.md)
 * [Standards](docs/standards/README.md)
-  * [Styling standards](docs/standards/styling-standards.md)
   * [Error standards](docs/standards/error-standards.md)
 * [Networking](docs/networking/README.md)
   * [Rotur In NovaOS](docs/networking/rotur-in-novaos.md)
@@ -39,10 +38,10 @@
 ## 🗃️ References
 
 * [NTX Actions](references/ntx-actions.md)
-* [Projects](references/projects.md)
 
 ## 🧩 more
 
+* [Projects](more/projects.md)
 * [Feedback and suggest](more/feedback-and-suggest.md)
 * [❤️ Support NovaOS](more/support-novaos.md)
 * [Features](more/features.md)

@@ -15,7 +15,7 @@ More: [greenflag](../timing.md), [mywindow](./).
 ### Basic syntax
 
 ```javascript
-myWindow.eventBusWorker.listen("EVENT_TYPE", (event) => {
+eventBus.listen("EVENT_TYPE", (event) => {
   // your code here
 });
 ```
@@ -23,7 +23,7 @@ myWindow.eventBusWorker.listen("EVENT_TYPE", (event) => {
 ### Example
 
 ```javascript
-myWindow.eventBusWorker.listen("memory", (event) => {
+eventBus.listen("memory", (event) => {
   // your code here
 });
 ```
@@ -106,7 +106,7 @@ Not only that you can listen to events, but the event bus also has a function to
 ### Basic syntax:
 
 ```
-eventBusWorker.deliver({
+eventBus.deliver({
   "type":EVENT_TYPE, // must be specified on listening
   "event":EVENT_TITLE, // optional event title
   "key":key  // optional event key data
