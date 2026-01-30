@@ -11,7 +11,7 @@ With OLP, you can make 'Open file' popups or even create an app that runs a cust
 {% hint style="warning" %}
 Apps can access this feature through the `myWindow` method. To use the myWindow method, you have to use the `greenflag()` function. Otherwise, it will return undefined. This is due to the fact that the `myWindow` object is only defined after the app document is loaded.
 
-More: [greenflag](../timing.md), [mywindow](./).
+More: [greenflag](timing.md), [mywindow](/broken/pages/kc0dYuLQfAQcFBgaq3UG).
 {% endhint %}
 
 OLP, relies on cross-origin communication based on `window.postMessage` API and the "message" event listener.&#x20;

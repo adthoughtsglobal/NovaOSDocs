@@ -4,18 +4,22 @@ icon: hand-wave
 
 # Welcome to NovaOS👋
 
-NovaOS is a web-based operating system containing an App Ecosystem powered by a community of Creators like you.
+NovaOS is an operating system like environment on your browser for running native-like, highly integrated web applications.
 
 This documentation is written so that you can discover how NovaOS works or how a system like this would work, specifically, making applications and using advanced customization features.
 
 {% hint style="success" %}
-NovaOS is Open Source (GPL v3), but it does not merge pull requests.&#x20;
+NovaOS is Open Source (GPL v3) as of 8th October 2025.
 {% endhint %}
 
-You can eventually create your dream web apps that utilize an increased set of features right in NovaOS. It supports all modern devices. It has a fully self-contained ecosystem and a unique user experience.&#x20;
+You can eventually create web apps that utilize an ever increasing set of features within NovaOS. While supporting all modern devices and browsers. &#x20;
 
 [Try NovaOS now](get-started/access-novaos.md) if you haven't.
 
-This documentation was formed over time, including answers to the most important questions you may be curious about. Starting from the basics of usage and behind-the-scenes design. Feel free to point out outdated content, errors, or documentation requirements at our Discord Server
+This documentation was formed over time, by answering the most important questions you may be curious about. Starting from the basics of usage and behind-the-scenes design. Feel free to point out outdated content, errors, or documentation requirements at our [Discord Server](http://runnova.github.io/dis).
 
-[Click here](https://adthoughtsglobal.github.io/screens/donate.html) if you wish to support NovaOS.
+## Recent
+
+* NovaOS Panels are how NovaOS widgets are made. (documentation soon)
+* NovaOS's built-in RoturTW support was removed.
+* NovaOS is now open source.

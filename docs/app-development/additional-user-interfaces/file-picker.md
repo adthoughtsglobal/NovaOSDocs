@@ -1,6 +1,6 @@
-# Choose files
+# File picker
 
-This page is all about letting a user choose a file from their file system. NovaOS lets users select files from the registered app, which has its capabilities as  '`file_manager`'.
+This page is all about letting a user choose files from their file system. NovaOS lets users select files from the registered `Files@runnova` app.
 
 ## Requesting a file selector window
 
@@ -15,12 +15,12 @@ await ntx.olp.useHandler("file_manager", {
 
 This returns the selected file ID once the user has selected it.
 
-Here, we use the [OL protocol](../managing-self/the-open-launch-protocol.md) to launch the application with the data, which has some parameters.
+Here, we use the [OL protocol](../the-open-launch-protocol.md) to launch the application with the data, which has some parameters.
 
 {% hint style="warning" %}
 Apps can access this feature through the `myWindow` method. To use the myWindow method, you have to use the `greenflag()` function. Otherwise, it will return undefined. This is due to the fact that the `myWindow` object is only defined after the app document is loaded.
 
-More: [greenflag](../timing.md), [mywindow](../managing-self/).
+More: [greenflag](../timing.md), [myWindow](../controlling-your-window.md).
 {% endhint %}
 
 ### Opener params

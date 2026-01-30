@@ -8,40 +8,35 @@
 
 ## docs
 
-* [Basics](docs/basics/README.md)
-  * [Introduction](docs/basics/introduction.md)
-  * [Timing](docs/basics/timing.md)
-  * [File system](docs/basics/file-system/README.md)
-    * [Overview on files](docs/basics/file-system/overview-on-files.md)
-    * [File management](docs/basics/file-system/file-management.md)
-  * [User choices](docs/basics/user-choices/README.md)
-    * [Settings Keys](docs/basics/user-choices/settings-keys.md)
-    * [Choose files](docs/basics/user-choices/choose-files.md)
-  * [Managing self](docs/basics/managing-self/README.md)
-    * [Using myWindow](docs/basics/managing-self/using-mywindow.md)
-    * [The Open Launch Protocol](docs/basics/managing-self/the-open-launch-protocol.md)
-    * [The EventBusWorker](docs/basics/managing-self/the-eventbusworker.md)
-* [Standards](docs/standards/README.md)
-  * [Error standards](docs/standards/error-standards.md)
-* [Networking](docs/networking/README.md)
-  * [Rotur In NovaOS](docs/networking/rotur-in-novaos.md)
+* [App development](docs/app-development/README.md)
+  * [Introduction](docs/app-development/introduction.md)
+  * [File system](docs/app-development/file-system/README.md)
+    * [Overview on files](docs/app-development/file-system/overview-on-files.md)
+    * [File management](docs/app-development/file-system/file-management.md)
+  * [Timing](docs/app-development/timing.md)
+  * [The EventBusWorker](docs/app-development/the-eventbusworker.md)
+  * [The Open Launch Protocol](docs/app-development/the-open-launch-protocol.md)
+  * [Additional user interfaces](docs/app-development/additional-user-interfaces/README.md)
+    * [Setting Keys](docs/app-development/additional-user-interfaces/setting-keys.md)
+    * [File picker](docs/app-development/additional-user-interfaces/file-picker.md)
+  * [Controlling your window](docs/app-development/controlling-your-window.md)
+* [Panels developement](docs/panels-developement/README.md)
+  * [Introduction](docs/panels-developement/introduction.md)
 
 ## ❓ How to
 
-* [Pro](how-to/pro/README.md)
-  * [Changing default openers](how-to/pro/changing-default-openers.md)
-  * [Data recovery](how-to/pro/data-recovery.md)
-  * [Using the Tasks Dock](how-to/pro/using-the-tasks-dock.md)
-* [Publish to Nova Store](how-to/publish-to-nova-store.md)
+* [Changing default openers](how-to/changing-default-openers.md)
+* [Using the Tasks Dock](how-to/using-the-tasks-dock.md)
 * [Protips](how-to/protips.md)
+* [Distributing your apps](how-to/distributing-your-apps.md)
 
 ## 🗃️ References
 
 * [NTX Actions](references/ntx-actions.md)
+* [Standards](references/standards/README.md)
+  * [Error standards](references/standards/error-standards.md)
 
 ## 🧩 more
 
 * [Projects](more/projects.md)
 * [Feedback and suggest](more/feedback-and-suggest.md)
-* [❤️ Support NovaOS](more/support-novaos.md)
-* [Features](more/features.md)

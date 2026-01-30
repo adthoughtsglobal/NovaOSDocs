@@ -1,8 +1,14 @@
-# Settings Keys
+# Setting Keys
 
-{% hint style="info" %}
-Learn how to use these, [here](./).
-{% endhint %}
+In NovaOS, users can decide what their choices are on various OS-wide topics on the NovaOS settings application. If you wish to let your app reflect on these choices, consider using the NovaOS `getSetting()` function
+
+Developers can use _**setting codes**_ to access NovaOS settings choices.
+
+```javascript
+await ntx.settings.get("SETTNGS_CODE_HERE") // returns settings value stored in system
+```
+
+## Common setting keys
 
 | Key               | Description                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
